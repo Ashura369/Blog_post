@@ -1,2 +1,1 @@
-# Projects
-Projects for Internship
+This is a blog post
